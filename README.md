@@ -5,4 +5,4 @@ The first one is called, "WeatherPy.ipynb". In this script I was tasked with Cre
 
 In the second Script file named, "VacationPy.ipynb", I was tasked with utilizing my understanding of using Geoapify API and the geoViews Python library to employ my Python skills to create map visualisations. In doing so, I have created two Map Visualizations that can be viewed in my Script. 
 
-Overall, I have found this assignment to be a lot more challenging then I expected due to encountering multiple errors while coding. The use of APIs was still new to me and getting myself to understand it was a bit challenging. In the end, I was able to understand it abit more and thus, fix my coding issues to finally, finishing this assignment.
+Overall, I have found this assignment to be a lot more challenging then I expected due to encountering multiple errors while coding. The use of APIs was still new to me and getting myself to understand it was a bit challenging. In the end, I was able to understand it a bit more and thus, fix my coding issues to finally, finishing this assignment.
